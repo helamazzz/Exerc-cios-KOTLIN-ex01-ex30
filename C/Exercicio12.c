@@ -2,10 +2,8 @@
 
 int main(void) {
     int primeiro, segundo;
-    
     printf("Primeiro número: ");
     scanf("%d", &primeiro);
-    
     printf("Segundo número: ");
     scanf("%d", &segundo);
     
@@ -16,6 +14,5 @@ int main(void) {
     } else {
         printf("Os números são iguais.\n");
     }
-    
     return 0;
 }
