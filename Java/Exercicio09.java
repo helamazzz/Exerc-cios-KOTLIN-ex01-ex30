@@ -16,4 +16,3 @@ public class Exercicio09 {
         entrada.close();
     }
 }
-          
